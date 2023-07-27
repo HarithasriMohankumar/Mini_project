@@ -3,7 +3,7 @@
 the project "Implementation of an Image Encryption algorithm using the chaotic maps" is submitted as the requirement of the course INT300 -MINI PROJECT of our University
 
 Team Members:-
-Srinivas M @srinivasmathi, Sriram K @Sriiiiio
+Srnivas M @srinivasmathi, Sriram K @Sriiiiio
 
 It uses the Confusion-Diffusion model which increases the security and makes the encryption strenuous 
 to crack. Permutations are done to shuffle the image’s pixel values which decrease the
@@ -21,7 +21,7 @@ Base Paper: https://doi.org/10.1016/j.asej.2021.05.004
 
 Input Image: 
 
-![lena_gray](https://github.com/HarithasriMohankumar/Mini_project/assets/140226260/709d1270-e295-495f-b757-c1b6a2a3a498)
+![image](https://github.com/srinivasmathi/Image-Encryption-using-chaotic-maps/assets/82605661/81de879a-512f-4355-8d4d-37102fe08d84)
 
 
 Shuffled Image:
@@ -32,7 +32,6 @@ Shuffled Image:
 Encrypted Image:
 
 ![image](https://github.com/srinivasmathi/Image-Encryption-using-chaotic-maps/assets/82605661/816cbbd4-7b80-4cf5-8fea-669c50cbb074)
-
 
 
 

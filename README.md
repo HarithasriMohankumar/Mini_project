@@ -20,6 +20,7 @@ of the pixel value.
 Base Paper: https://doi.org/10.1016/j.asej.2021.05.004
 
 Input Image: 
+
 ![lena_gray](https://github.com/HarithasriMohankumar/Mini_project/assets/140226260/709d1270-e295-495f-b757-c1b6a2a3a498)
 
 
